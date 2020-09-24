@@ -1,2 +1,2 @@
-# Image-processing-using-genetic-algorithm
-# Genetic algoithm implementation on image processing in Python
+# Image-generation-using-genetic-algorithm
+# Image generation using genetic algorithms in Python
